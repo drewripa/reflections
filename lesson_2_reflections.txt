@@ -1,2 +1,5 @@
 1. What happens when you initialize a repository? Why do you need to do it?
 .git folder created and magic begins.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area contain only files that contain or may contain changes from last time it was modified
