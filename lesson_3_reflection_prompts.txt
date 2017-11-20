@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
 when using diff PCs ... backing data up is a good thing to do.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+cose of release-testing project managing
